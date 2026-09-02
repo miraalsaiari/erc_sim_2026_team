@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: erc_description
+    relative_path: urdf/tiago_pro.urdf
+  srdf:
+    relative_path: config/tiago_pro.srdf
+  package_settings:
+    author_name: Mira
+    author_email: 100066117@ku.ac.ae
+    generated_timestamp: 1788359213
