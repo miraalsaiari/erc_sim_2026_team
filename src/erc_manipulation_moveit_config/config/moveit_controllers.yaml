@@ -19,6 +19,8 @@ moveit_simple_controller_manager:
       - arm_right_7_joint
     action_ns: follow_joint_trajectory
     default: true
+    allowed_execution_duration_scaling: 10.0
+    allowed_goal_duration_margin: 5.0
   gripper_right_controller_raw:
     type: FollowJointTrajectory
     joints:
