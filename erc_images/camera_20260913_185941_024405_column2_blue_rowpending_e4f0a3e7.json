@@ -1,0 +1,23 @@
+{
+  "captured_at_utc": "2026-09-13T18:59:41.024405+00:00",
+  "source": "ROS camera topic",
+  "camera_topic": "/head_front_camera/head_front_camera/color/image_raw",
+  "frame_id": "head_front_camera_color_optical_frame",
+  "stamp_sec": 376,
+  "stamp_nanosec": 432000000,
+  "column_label": 2,
+  "visible_labels": [
+    1,
+    2,
+    4
+  ],
+  "book_colour": "blue",
+  "row_number": null,
+  "column_box_xywh": [
+    278,
+    69,
+    109,
+    264
+  ],
+  "book_box_xywh": null
+}
